@@ -1,0 +1,9 @@
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\bin\Debug\MyFirst.exe.config
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\bin\Debug\MyFirst.exe
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\bin\Debug\MyFirst.pdb
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\obj\Debug\MyFirst.csprojAssemblyReference.cache
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\obj\Debug\MyFirst.Form1.resources
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\obj\Debug\MyFirst.Properties.Resources.resources
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\obj\Debug\MyFirst.csproj.GenerateResource.cache
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\obj\Debug\MyFirst.exe
+F:\workstation\workstation\workstation\C#\MyFirst\MyFirst\obj\Debug\MyFirst.pdb
