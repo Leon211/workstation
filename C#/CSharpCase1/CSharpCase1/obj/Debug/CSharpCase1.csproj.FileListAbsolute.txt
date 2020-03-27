@@ -1,0 +1,9 @@
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\bin\Debug\CSharpCase1.exe.config
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\bin\Debug\CSharpCase1.exe
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\bin\Debug\CSharpCase1.pdb
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\obj\Debug\CSharpCase1.csprojAssemblyReference.cache
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\obj\Debug\CSharpCase1.Form1.resources
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\obj\Debug\CSharpCase1.Properties.Resources.resources
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\obj\Debug\CSharpCase1.csproj.GenerateResource.cache
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\obj\Debug\CSharpCase1.exe
+F:\workstation\workstation\workstation\C#\CSharpCase1\CSharpCase1\obj\Debug\CSharpCase1.pdb

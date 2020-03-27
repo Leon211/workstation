@@ -1,0 +1,9 @@
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\obj\Debug\CSharar_Case2.csprojAssemblyReference.cache
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\obj\Debug\CSharar_Case2.Form1.resources
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\obj\Debug\CSharar_Case2.Properties.Resources.resources
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\obj\Debug\CSharar_Case2.csproj.GenerateResource.cache
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\bin\Debug\CSharar_Case2.exe.config
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\bin\Debug\CSharar_Case2.exe
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\bin\Debug\CSharar_Case2.pdb
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\obj\Debug\CSharar_Case2.exe
+F:\workstation\workstation\workstation\C#\CSharar_Case2\CSharar_Case2\obj\Debug\CSharar_Case2.pdb
