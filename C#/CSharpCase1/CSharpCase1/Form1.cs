@@ -22,21 +22,28 @@ namespace CSharpCase1
             //    totalPrice = totalPrice * disCount;
             //}
             //MessageBox.Show(totalPrice.ToString());
-            double price = 1.9;
-            int count = 16;
-            double disCount = 0.75;
-            double totalPrice; 
-            double totalTen = 0;
+            //double price = 1.9;
+            //int count = 16;
+            //double disCount = 0.75;
+            //double totalPrice; 
+            //double totalTen = 0;
+            double totalPrice = Buy(1.9, 16, 0.75);
+            MessageBox.Show(totalPrice.ToString());
+        }
+        public double Buy(double price, int count, double disCount)
+        {
+            double totalPrice;
             totalPrice = price * count;
             int d = (int)(totalPrice / 10);
+            double totalTen = 0;
             for (int i = 0; i < d; i++)
             {
-              
+
                 totalTen = totalTen + 10 * disCount;
             }
             double add = totalPrice % 10;
             totalPrice = totalTen + add;
-
+            return totalPrice;
         }
     }
 }
